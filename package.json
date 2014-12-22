@@ -1,0 +1,22 @@
+{
+  "name": "react-odometer",
+  "version": "0.0.1",
+  "description": "React component to insert Hubspot's Odometer",
+  "main": "./index.js",
+  "keywords": [
+    "react",
+    "react-component",
+    "hubspot",
+    "odometer",
+    "component"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Neary (adamrneary)",
+  "license": "MIT",
+  "devDependencies": {
+    "odometer": "^0.4.6",
+    "react": "^0.11.0"
+  }
+}
